@@ -1,4 +1,4 @@
-![BrowserStack Bookmarklets](/browserstack-bookmarklets.png "BrowserStack Bookmarklets")
+![BrowserStack Bookmarklets](/stephenway/browserstack-bookmarklets/master/browserstack-bookmarklets.png "BrowserStack Bookmarklets")
 
 [BrowserStack](http://www.browserstack.com) is a service that provides cross-browser, cross-mobile testing to developers who need to test javascript and/or css. I thought it was so handy that I wanted to cut out some of the time I was spending with URLs and just get a set of bookmarks that let me call up a browser from the current site I was on. This is a complete set of browsers offered on this service. I'd like to say this tool lives up to their tagline.
 
