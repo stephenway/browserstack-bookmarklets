@@ -26,12 +26,7 @@ I will continue to update this as Browserstack keeps adding and removing browser
 
 ## Contact
 
-Stephen Way
-
-- http://github.com/stephenway
-- http://twitter.com/stephencway
-- http://alpha.app.net/stephenway
-- stephencway@me.com
+[Stephen Way](http://github.com/stephenway)
 
 ## License
 
