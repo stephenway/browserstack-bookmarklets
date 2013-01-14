@@ -16,6 +16,19 @@ git clone git://github.com/stephenway/browserstack-bookmarklets.git ~/Downloads
 
 Then import the html file in your preferred browser.
 
+### How to Import
+
+[Safari](http://support.apple.com/kb/PH4969)
+
+[Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=96816)
+
+[Firefox](http://support.mozilla.org/en-US/kb/import-bookmarks-html)
+
+[Opera](http://www.opera.com/support/kb/view/475/)
+
+[Internet Explorer](http://support.microsoft.com/kb/2525573)
+
+
 ## Upgrade
 
 Delete your BrowserStack bookmark folder then repeat the installation steps.
