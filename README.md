@@ -4,6 +4,8 @@
 
 > Create an easier workflow for cross-browser testing, by connecting testers directly to BrowserStack.
 
+![](http://i.imgur.com/eDNYy.png)
+
 ## Installation
 
 Clone the BrowserStack Bookmarklets repository to your Downloads folder.
