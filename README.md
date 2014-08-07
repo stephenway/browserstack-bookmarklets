@@ -8,10 +8,10 @@
 
 ## Installation
 
-Clone the BrowserStack Bookmarklets repository to your Downloads folder.
+Clone the BrowserStack Bookmarklets repository.
 
 ```
-git clone git://github.com/stephenway/browserstack-bookmarklets.git ~/Downloads
+git clone git://github.com/stephenway/browserstack-bookmarklets.git
 ```
 
 Then import the html file in your preferred browser.
